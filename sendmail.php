@@ -10,5 +10,4 @@
     mail ($to, $subject, $message, "From: " . $name);
     echo "Your message has been sent.";
 ?>
-<!--adding a commet in hmp- master-->
-<!--second comment in php-->
+<!--changes from master-->
