@@ -1,1 +1,1 @@
-This is for my profile.Including some of my pet projets
+This is for my profile.Including some of my pet projects.
